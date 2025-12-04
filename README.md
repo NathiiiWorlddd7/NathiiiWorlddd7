@@ -1,6 +1,5 @@
-## Hi there, I Rodney 👋
+## Hi there, I am Rodney 👋
 
-<!--
 Software Developer | Full-Stack & Mobile Dev Enthusiast
 
 Currently diving deeper into Java, Android, React, AngularJS and Cloud (AWS / Firebase).
@@ -45,4 +44,3 @@ Git • GitHub • Docker • Linux • Firebase • AWS (EC2, S3) • XAMPP •
 📧 Email: rodneynathi2@email.com
 
 🔗 LinkedIn: https://linkedin.com/in/yourprofile
--->
